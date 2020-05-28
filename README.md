@@ -1,4 +1,4 @@
-# vue-component-instance
+# Instância dinâmica de um componente VUE
 
 ## Project setup
 ```
